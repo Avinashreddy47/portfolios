@@ -2,7 +2,7 @@
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="http://avinashreddy47.github.io/Portfolios/build/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://avinashreddy47.github.io/portfolios/build/" target="_blank">**Visit Now** 🚀</a>
 
 ### Extras :
 
